@@ -1,5 +1,11 @@
 # @computesdk/bench
 
+## 0.1.9
+
+### Patch Changes
+
+- 51d8f6b: Add defined task cleanup hooks, worker finish hooks for one-time log uploads, worker artifact upload helpers, a best-effort benchmark reporter for custom coordinators, reusable barrier polling, and system metrics sampling utilities.
+
 ## 0.1.8
 
 ### Patch Changes
